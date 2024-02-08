@@ -1,0 +1,41 @@
+.navbar {
+    margin: 0;
+    margin-top: 0%;
+    height: 10vh;
+    background: white;
+    display: flex;
+    justify-content: space-between ;
+    align-items: center;
+    width: 100%;
+    background: white;
+    padding: 15px 7%;
+  }
+  h1{
+    background-color: white;
+  }
+  ul{
+    flex: 1;
+    list-style: none;
+    text-align: right;
+    background-color: white;
+  }
+  ul li{
+    margin-left: 100px;
+    display: inline-block;
+    margin:  10px;
+    cursor: pointer;
+    background-color:white;
+  }
+  button{
+    margin: 0;
+    padding: .5rem;
+    background-color: rgb(53, 193, 146);
+    border-radius: 5px;
+    border: none;
+    color: white;
+    cursor: pointer;
+
+  }
+
+
+ 
